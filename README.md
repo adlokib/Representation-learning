@@ -66,6 +66,9 @@ The advantage of this clustering approach, as opposed to DBScan or K-means is th
 # References
 
 (https://arxiv.org/abs/2005.12872)
+
 (https://openjournals.uwaterloo.ca/index.php/vsl/article/download/3533/4579)
+
 (https://arxiv.org/abs/1706.03762)
+
 (https://arxiv.org/abs/2002.10857)
